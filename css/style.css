@@ -212,8 +212,8 @@ h6 {
   font-family: 'Roboto Condensed', sans-serif;
 }
 h2 {
-    color: #2200EE;
-    font-size: 55px;
+    color: #000721;
+    font-size: 50px;
     line-height: 72px;
     margin-top: -18px;
     margin-bottom: 32px;
@@ -292,11 +292,11 @@ ul {
 }
 /****Links****/
 a {
-  text-decoration: none;
-  color: inherit;
-  outline: none;
-  -webkit-transition: 0.5s ease;
-  transition: 0.5s ease;
+    text-decoration: none;
+    color: #0E57C5;
+    outline: none;
+    -webkit-transition: 0.5s ease;
+    transition: 0.5s ease;
 }
 a:hover {
     color: #003EFF;
@@ -401,7 +401,7 @@ a:hover {
 }
 /*header*/
 header {
-    color: #FBBC0E;
+    color: #FFFFFF;
     display: block;
     position: relative;
     z-index: 999;
@@ -451,10 +451,10 @@ header h1.stuck_head {
   line-height: 48px;
 }
 .page1_header .banner:first-child + .banner {
-  background-color: #00b1ba;
+    background-color: #FF9900;
 }
 .page1_header .banner:first-child + .banner + .banner {
-  background-color: #00b1ba;
+    background-color: #FF9900;
 }
 .page1_header .banner + .banner + .banner {
   padding-top: 63px;
@@ -500,12 +500,12 @@ header h1.stuck_head {
 }
 /****Blocks****/
 .block-1 {
-  font: 20px/30px 'Roboto Condensed', sans-serif;
-  background-color: #088389;
-  color: #ffffff;
-  font-size: 20px;
-  line-height: 30px;
-  padding: 34px 0 18px;
+    font: 20px/30px 'Roboto Condensed', sans-serif;
+    background-color: #14406B;
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 30px;
+    padding: 34px 0 18px;
 }
 .block-1 .support {
   margin-top: -13px;
@@ -532,12 +532,12 @@ header h1.stuck_head {
     position: relative;
     top: 3px;
     background-color: #f2f5f6;
-    padding: 31px 57px 40px 58px;
+    padding: 31px 31px 31px 31px;
     color: #000000;
 }
 .bq1 p {
     font-style: italic;
-    margin-bottom: 11px;
+    margin-bottom: 21px;
 }
 .bq1 span {
   display: block;

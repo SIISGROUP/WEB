@@ -196,7 +196,8 @@ table {
   width: 270px;
 }
 .grid_2 {
-  width: 170px;
+    width: 200px;
+    min-width: 200px;
 }
 .grid_1 {
   width: 70px;
