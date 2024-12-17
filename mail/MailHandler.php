@@ -1,7 +1,7 @@
 <?php
-	$owner_email='#';
+	$owner_email='davis.piura@gmail.com';
 	//SMTP server settings	
-	$host = '';
+	$host = 'ssl://smtp.gmail.com';
     $port = '465';//"587";
     $username = '';
     $password = '';
